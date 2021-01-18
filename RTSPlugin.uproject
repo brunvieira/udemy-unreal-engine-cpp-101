@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D5A9C57B-7B4F-4AC8-BD84-4DE8F9BE4F30}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RTSPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
